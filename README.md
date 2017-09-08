@@ -1,6 +1,9 @@
-# AngularApp
+# Task Scheduler
+
+This is a simple project for creating a personal task organizer/scheduler with an additional account creation.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
+
 
 ## Development server
 

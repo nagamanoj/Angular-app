@@ -1,0 +1,9 @@
+<!-- Don't forget  to style these details component -->
+
+<div *ngIf="task" class="tDetails">
+  <h3>Task Details</h3>
+  <label>Name : </label><input type="text" [(ngModel)] = 'task.name'><br>
+  <label *ngIf="task.status">Status : </label><input *ngIf="task.status" type="text" [(ngModel)] = 'task.status'>
+
+</div>
+

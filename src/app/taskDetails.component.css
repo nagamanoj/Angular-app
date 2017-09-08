@@ -1,0 +1,15 @@
+label {
+  font-size: 30px;
+  color: rgba(100, 0, 0, 0.6);
+}
+
+input {
+  border: 0;
+  outline: 0;
+  background: transparent;
+  font-size: 30px;
+}
+
+.tDetails {
+  text-align: center;
+}
